@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/euroCont/static/css/main.be7947c8.chunk.css",
+    "main.js": "/euroCont/static/js/main.feb4f9d7.chunk.js",
+    "main.js.map": "/euroCont/static/js/main.feb4f9d7.chunk.js.map",
+    "runtime~main.js": "/euroCont/static/js/runtime~main.9cd6630b.js",
+    "runtime~main.js.map": "/euroCont/static/js/runtime~main.9cd6630b.js.map",
+    "xlsx.js": "/euroCont/static/js/xlsx.c5f5785d.chunk.js",
+    "xlsx.js.map": "/euroCont/static/js/xlsx.c5f5785d.chunk.js.map",
+    "static/js/3.82074fb9.chunk.js": "/euroCont/static/js/3.82074fb9.chunk.js",
+    "static/js/3.82074fb9.chunk.js.map": "/euroCont/static/js/3.82074fb9.chunk.js.map",
+    "static/js/4.09002538.chunk.js": "/euroCont/static/js/4.09002538.chunk.js",
+    "static/js/4.09002538.chunk.js.map": "/euroCont/static/js/4.09002538.chunk.js.map",
+    "static/js/5.33fa582b.chunk.js": "/euroCont/static/js/5.33fa582b.chunk.js",
+    "static/js/5.33fa582b.chunk.js.map": "/euroCont/static/js/5.33fa582b.chunk.js.map",
+    "static/js/6.21d078f6.chunk.js": "/euroCont/static/js/6.21d078f6.chunk.js",
+    "static/js/6.21d078f6.chunk.js.map": "/euroCont/static/js/6.21d078f6.chunk.js.map",
+    "index.html": "/euroCont/index.html",
+    "precache-manifest.70be5be160a127bd04ca181fee7ca8b1.js": "/euroCont/precache-manifest.70be5be160a127bd04ca181fee7ca8b1.js",
+    "service-worker.js": "/euroCont/service-worker.js",
+    "static/css/main.be7947c8.chunk.css.map": "/euroCont/static/css/main.be7947c8.chunk.css.map",
+    "static/media/europe_cont.png": "/euroCont/static/media/europe_cont.43acfcc8.png"
+  }
+}
