@@ -13,5 +13,6 @@ https://sionut0122.github.io/euroCont/
 - Javascript
 - SCSS
 - RestAPI
+- Amcharts
 
 
