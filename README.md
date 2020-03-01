@@ -1,6 +1,6 @@
 ## euroCont
 
-![euroContImage](http://ionutdev.com/static/media/euroCont_proj.15c58a07.png)
+![euroContImage](https://raw.githubusercontent.com/SIonut0122/euroCont/gh-pages/static/media/eurocont.png)
 
 ## Test the app:
 
